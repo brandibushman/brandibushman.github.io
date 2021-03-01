@@ -1,0 +1,58 @@
+/* myStyle.css */
+
+iframe{ 
+     width:80% ;
+     height:400px;
+     margin: auto;}
+hr{
+    height:4px;
+    border-width:0;
+    background-image: linear-gradient(to bottom right,#e77, #E7717D,#a95376);}
+.nav {
+    background-image: linear-gradient(to bottom right,#e77, #E7717D,#a95376);
+    color: #e0f1f1;
+    text-shadow: 1px 1px 2px #afd275;
+    position: fixed;
+    width: 100%;}
+.division2{
+    margin: auto;
+    width: 80%;
+    color: #e0f1f1;
+    text-shadow: 1px 1px 2px #afd275;
+    background-image: linear-gradient(to bottom right,#e77, #E7717D,#a95376);
+  text-align: center;}
+body{
+    background-color: #faedd6;
+    color: black;
+    text-shadow: 1px 1px 2px #e0f1f1 ;
+    height: 100%;
+    font-family: 'Comfortaa', cursive;} 
+h1{
+    font-family: 'Quattrocento', serif;
+    color: #afd275;
+    text-shadow: 1px 1px 2px #e0f1f1 ;
+    margin-left: 10%;}
+.division1{ 
+      border-radius: 25px;
+      background: #afd275;
+      padding: 20px; 
+      width: 90%;
+      height: 80%; 
+      margin: auto; }
+a{
+color: black;}
+  summary{
+      color: black;}
+  .navlist {
+    list-style-type: none;
+    margin: 40;
+    padding: 0;}
+  .navitem {
+    display: inline;}
+.historial {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;} 
+.histitem {
+  display: block;
+  color: white;}
