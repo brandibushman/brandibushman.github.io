@@ -7,11 +7,10 @@ iframe{
 hr{
     height:4px;
     border-width:0;
-    background-image: linear-gradient(to bottom right,#e77, #E7717D,#a95376);}
+    background-color: #2673e7;}
 .nav {
-    background-image: linear-gradient(to bottom right,#e77, #E7717D,#a95376);
-    color: #e0f1f1;
-    text-shadow: 1px 1px 2px #afd275;
+    background-color: #303030;
+    color: #d8d8d8;
     position: fixed;
     width: 100%;}
 .division2{
@@ -34,7 +33,7 @@ h1{
     margin-left: 10%;}
 .division1{ 
       border-radius: 25px;
-      background: #afd275;
+      background: #f2f2f2;
       padding: 20px; 
       width: 90%;
       height: 80%; 
