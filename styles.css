@@ -31,7 +31,9 @@ hr{
     color: #f2f2f2;
     font-size: 18px;}
 body{
-    background-color: #ffffff;
+  background-image: url(background-2462434_1920.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: black;
     height: 100%;
     font-family: 'Comfortaa', cursive;} 
@@ -46,6 +48,15 @@ h1{
       width: 90%;
       height: 80%; 
       margin: auto; }
+  .division2{ 
+    border-radius: 25px;
+    background-color: #f2f2f2;
+    font-family: 'Fanwood Text', serif;
+    text-align:left;
+    width: 90%;
+    height: 80%; 
+    padding-bottom: 15px;
+    margin: auto; }     
 a{
 color: black;}
   summary{
@@ -80,3 +91,12 @@ color: black;}
   .active {
     background-color: #2673e7;
   }
+  .name{font-family: 'Fanwood Text', serif;
+    text-align:right;
+
+  }
+  .dropdown{
+    padding: 15px;
+  }
+
+  
